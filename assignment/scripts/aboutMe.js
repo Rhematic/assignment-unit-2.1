@@ -85,6 +85,12 @@ else if (pets > allowedPets) {
     console.log("Oh no, I have too many pets!");
 }
 
+let ifIHadMoreTime = false;
+
+if (ifIHadMoreTime) {
+    console.log("I'm going to do the stretch goals");  
+} else {console.log("Time to run errands and pack for a 4 day work conference in Bemidji");}
+
 // STRETCH GOALS:
 
 // 16 - Make a variable called `mostPets` and a conditional that
